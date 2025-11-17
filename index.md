@@ -1,2 +1,1 @@
-# Home
 Hello world!
